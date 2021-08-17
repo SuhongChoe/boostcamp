@@ -9,7 +9,7 @@ dsdf
 
 ## ILSVRC (ImageNet Large-Scale Visual Recognition Challenge)
 
-![image-20210817032027186](C:\Users\mskid\AppData\Roaming\Typora\typora-user-images\image-20210817032027186.png)
+![image-20210817032027186](https://raw.githubusercontent.com/choesuhong/boostcamp/img/img/image-20210817032027186.png)
 
 dfasdf
 
